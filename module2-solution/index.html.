@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styless.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<h2 style="text-align :center">Our menu</h2>
+
+<div class="col-lg-4 col-md-6 col-sm-12"><div class ="container"><div class="box name1">chicken </div><p>The poultry farming industry that accounts for chicken production takes on a range of forms across different parts of the world. In developed countries, chickens are typically subject to intensive farming methods, while less-developed areas raise chickens using more traditional farming techniques. The United Nations estimates there to be 19 billion chickens on Earth today, making them outnumber humans more than two to one.[3]</p></div></div>
+
+
+
+<div class= "col-lg-4 col-md-6 col-sm-12">
+<div class ="container" ><div class="box name2">pizza</div><p>Pizza (Italian: [ˈpittsa], Neapolitan: [ˈpittsə]) is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.) which is then baked at a high temperature, traditionally in a wood-fired oven.[1] A small pizza is sometimes called a pizzetta. A person who makes pizza is known as a pizzaiolo. </p></div></div>
+
+
+
+
+<div class="col-lg-4 col-md-12 col-sm-12"><div class =container ><div class="box name3">noodles</div><p>Noodles are usually cooked in boiling water, sometimes with cooking oil or salt added. They are also often pan-fried or deep-fried. Noodle dishes can include a sauce or noodles can be put into soup. The material composition and geocultural origin is specific to each type of a wide variety of noodles. </p></div>
+</div>
+
+
+
+</body>
+</html>
+
